@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    color: white;
+    padding: 10px 40px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.fontchange1{
+    font-family: 'Pushster', cursive;
+    font-weight: 500;
+    font-size: 30px;
+    padding:10px;
+
+}
+.fontchange2{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 140px;
+}
+.fontchange3{
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 60px;
+}
+p{
+    text-align: center;
+    font-size: 18px;
+
+}
+.section1{
+    text-align: center;
+    padding-top: 5px;
+    display: block;
+}
+.div1{
+    margin-left: 250px;
+    width: 100px;
+    padding:0;
+    box-shadow: 10px 10px 10px rgb(10, 10, 10);
+    border-radius: 10px;
+    background-image: linear-gradient(black,gray);
+    color:whitesmoke;
+
+}
+.div2{
+    padding-top: 20px;
+}
