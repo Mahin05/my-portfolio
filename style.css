@@ -5,42 +5,58 @@ body{
     text-decoration: none;
     background-image: linear-gradient(orange,red);
     color: white;
-    padding: 10px 40px;
+    padding: 20px 60px;
     font-weight: 600;
     border-radius: 5px;
+    font-size: 20px;
 }
 .fontchange1{
     font-family: 'Pushster', cursive;
     font-weight: 500;
     font-size: 30px;
     padding:10px;
+    color:white;
 
 }
 .fontchange2{
     font-family: 'Oswald', sans-serif;
     text-align: center;
-    font-size: 30px;
-    margin-top: 140px;
+    font-size: 40px;
+    margin-top: 120px;
+    font-weight: bolder;
+    color: white;
+
 }
 .fontchange3{
     font-family: 'Roboto Mono', monospace;
     text-align: center;
-    font-size: 60px;
+    font-size: 80px;
+    color:white;
+    font-weight: bolder;
+
 }
-p{
+#p1{
     text-align: center;
-    font-size: 18px;
+    font-size: 25px;
+    color:white;
+    width: 70%;
+    padding-left: 15%;
+    font-weight: 900;
+
+
 
 }
 .section1{
     text-align: center;
-    padding-top: 5px;
+    padding-top: 1px;
     display: block;
+    background-image: url(images/1UDgMj.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
 }
 .div1{
     margin-left: 250px;
     width: 100px;
-    padding:0;
     box-shadow: 10px 10px 10px rgb(10, 10, 10);
     border-radius: 10px;
     background-image: linear-gradient(black,gray);
@@ -48,5 +64,38 @@ p{
 
 }
 .div2{
-    padding-top: 20px;
+    padding-top: 15px;
+}
+.image1{
+    border-radius: 50%;
+    width: 80%;
+}
+.section2{
+    display: flex;
+    margin-left: 15%;
+   margin-top: 10%;
+
+}
+#div3{
+   margin-left: 10%;
+   margin-top: 5%;
+}
+.div4{
+    margin-right: 30%;
+    text-align: justify;
+}
+.div4 h3{
+    font-size: 20px;    
+    color:tomato;
+    text-align: center;
+}
+.div4 h2{
+    font-size: 30px;    
+    color:black;
+    text-align: center;
+}
+.div4 p{
+    font-size: 20px;   
+    color: gray; 
+    text-align: justify;
 }
